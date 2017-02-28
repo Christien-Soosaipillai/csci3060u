@@ -1,0 +1,6 @@
+login
+admin
+fulluser
+selluser
+0
+logout

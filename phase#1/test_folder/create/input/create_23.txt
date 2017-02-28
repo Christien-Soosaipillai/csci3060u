@@ -1,0 +1,8 @@
+create_23 input file: create_23.txt
+login
+user_admin
+create
+user_cmid
+sell-standard
+1000000.00
+logout

@@ -1,0 +1,6 @@
+login
+admin
+f
+selluser
+10
+logout

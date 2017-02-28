@@ -1,0 +1,7 @@
+login
+user_admin
+create
+user_cmin
+sell-standard
+0.00
+logout

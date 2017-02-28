@@ -1,0 +1,8 @@
+login
+admin
+buy
+T
+2
+selluser
+yes
+logout

@@ -1,0 +1,6 @@
+login
+admin
+buy
+sample event title
+0
+logout

@@ -1,0 +1,5 @@
+login
+user_standard
+addcredit 
+90.00
+logout

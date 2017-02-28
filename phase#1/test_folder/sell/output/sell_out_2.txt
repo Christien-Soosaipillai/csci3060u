@@ -1,0 +1,14 @@
+Welcome to ticket kiosk.
+Please enter login to begin:
+Enter username:
+Welcome user_full.
+Please enter a function:
+Please enter the event title for the ticket(s)
+Event Title: Concert
+Please enter the sale price per ticket:
+Sale Price: $15.00
+Please enter the number of Tickets you wish to sell
+Amount of Tickets: 1
+Sale has been created!
+Please enter a function:
+Logout Successful

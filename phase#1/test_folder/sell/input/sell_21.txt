@@ -1,0 +1,8 @@
+sell_21 input file: sell_21.txt
+login
+user_sell_t
+sell
+Concert-Test-Event-123456
+999.00
+50
+logout

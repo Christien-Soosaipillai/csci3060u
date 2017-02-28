@@ -1,0 +1,7 @@
+login
+user_admin
+create
+user_t
+buy-standard
+0
+logout

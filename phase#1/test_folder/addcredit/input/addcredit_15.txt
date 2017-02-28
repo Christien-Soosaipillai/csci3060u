@@ -1,0 +1,5 @@
+login
+user_sell
+addcredit 
+500.00
+logout

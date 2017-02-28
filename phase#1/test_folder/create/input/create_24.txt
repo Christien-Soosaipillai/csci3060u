@@ -1,0 +1,7 @@
+login
+user_admin
+create
+user_cscs
+sell-standard
+999999.67
+logout

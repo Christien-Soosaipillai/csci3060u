@@ -1,0 +1,9 @@
+login
+user_admin
+logout
+buy
+sell
+refund
+addcredit
+create
+delete

@@ -1,0 +1,15 @@
+login
+user_admin
+delete
+user_cdel
+buy
+Concert
+1
+user_cdel
+refund
+user_buyer
+user_cdel
+addcredit
+100
+user_cdel
+logout

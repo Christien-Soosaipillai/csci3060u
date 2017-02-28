@@ -1,0 +1,7 @@
+login
+user_admin
+create
+user_tfs
+full-standard
+0
+logout

@@ -1,0 +1,6 @@
+login
+admin
+fulluser
+selluser123456789012345678
+10
+logout

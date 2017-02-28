@@ -1,0 +1,7 @@
+login
+user_admin
+create
+user_cmax
+sell-standard
+999999.99
+logout

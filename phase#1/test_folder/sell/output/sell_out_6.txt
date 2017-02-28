@@ -1,0 +1,9 @@
+Welcome to ticket kiosk.
+Please enter login to begin:
+Enter username:
+Welcome user_sell_t.
+Please enter a function:
+Please enter the event title for the ticket(s)
+Invalid Title name. An event Title must consist of at least 1 to a maximum of 25 ASCII characters
+Please enter a function:
+Logout Successful

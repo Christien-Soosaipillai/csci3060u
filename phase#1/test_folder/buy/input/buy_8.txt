@@ -1,0 +1,8 @@
+login
+admin
+buy
+Total Monster Jampak
+2
+selluser
+yes
+logout
