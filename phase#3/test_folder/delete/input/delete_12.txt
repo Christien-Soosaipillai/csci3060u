@@ -1,0 +1,7 @@
+login
+user_admin
+delete
+user_cdel
+logout
+login
+quit

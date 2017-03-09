@@ -1,0 +1,22 @@
+Welcome to ticket kiosk.To quit at anytime please enter 'quit'. Please enter 'login' to begin: 
+Enter Username: ACCOUNT INFORMATION: buyuser/ BS/ 40
+Login Accepted, welcome user!
+Please enter a transaction you wish to make
+available_tickets_file.txt
+Celine Dion Show irfaan 3 3.99 
+Please enter the event title for the tickets you wish to purchase: 
+
+Event Name not found
+Please enter a transaction you wish to make
+sorry that is the wrong command
+Please enter a transaction you wish to make
+sorry that is the wrong command
+Please enter a transaction you wish to make
+sorry that is the wrong command
+Please enter a transaction you wish to make
+00 buyuser         BS 40.000000
+you have logged out
+
+Welcome to ticket kiosk.To quit at anytime please enter 'quit'. Please enter 'login' to begin: 
+finished
+exiting the ticket system

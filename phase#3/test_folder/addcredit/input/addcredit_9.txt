@@ -1,0 +1,7 @@
+login
+user_unknown
+addcredit 
+90.00
+User_test_12345
+logout
+quit

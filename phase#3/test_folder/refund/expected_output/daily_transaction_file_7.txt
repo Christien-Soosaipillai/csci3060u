@@ -1,0 +1,2 @@
+05 fulluser selluser1234 000010.00
+00              admin AA 000100.00

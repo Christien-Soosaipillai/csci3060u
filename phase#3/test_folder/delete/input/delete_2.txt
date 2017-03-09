@@ -1,0 +1,5 @@
+login
+user_full
+delete
+logout
+quit

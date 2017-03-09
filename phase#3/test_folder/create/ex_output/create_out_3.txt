@@ -1,0 +1,8 @@
+Welcome to ticket kiosk.
+Please enter login to begin:
+Enter username:
+Welcome user_buy.
+Please enter a function:
+Invalid request. Need to be admin in order to create a user.
+Please enter a function:
+Logout Successful

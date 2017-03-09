@@ -1,0 +1,3 @@
+Welcome to ticket kiosk.
+Please enter login to begin:
+Invalid request. Need to be logged in.

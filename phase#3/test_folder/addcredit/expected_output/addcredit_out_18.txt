@@ -1,0 +1,9 @@
+Welcome to ticket kiosk.
+Please enter login to begin:
+Enter username:
+Welcome user1.
+Please enter a function:
+How much credit do you wish to add?
+Invalid Request. The user will exceed their account max threshold
+Please enter a function
+Logout successful.          

@@ -1,0 +1,8 @@
+login
+user_admin
+create
+user_ta
+admin
+0
+logout
+quit

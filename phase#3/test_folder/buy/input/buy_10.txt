@@ -1,0 +1,6 @@
+login
+admin
+buy
+Total Monster JampakBrawl!
+logout
+quit

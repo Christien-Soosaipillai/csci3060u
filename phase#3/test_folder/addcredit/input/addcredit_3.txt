@@ -1,0 +1,7 @@
+login
+user_buy
+addcredit 
+90.00
+
+logout
+quit

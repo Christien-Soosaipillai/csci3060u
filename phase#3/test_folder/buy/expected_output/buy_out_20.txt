@@ -1,0 +1,14 @@
+Welcome to ticket kiosk.
+Please enter login to begin:
+Enter username:
+Welcome admin.
+Please enter a function:
+Enter Event Title:
+Enter number of tickets (max 4):
+Please enter the seller’s username:
+1 ticket(s) @ $10.00 each for the event: “sample event title“
+Total: $10.00
+Confirm purchase? (yes/no):
+Purchase confirmed!
+Please enter a function:
+Logout successful.

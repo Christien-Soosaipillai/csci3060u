@@ -1,0 +1,8 @@
+login
+user_admin
+create
+user_tss
+sell-standard
+0
+logout
+quit

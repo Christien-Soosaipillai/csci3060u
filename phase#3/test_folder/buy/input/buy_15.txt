@@ -1,0 +1,9 @@
+login
+admin
+buy
+sample event title
+3
+selluser
+yes
+logout
+quit

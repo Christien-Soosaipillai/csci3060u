@@ -1,0 +1,6 @@
+login
+user_admin
+create
+user_123456789s
+logout
+quit

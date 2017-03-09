@@ -1,0 +1,10 @@
+login
+user_admin
+create
+user3
+buy-standard
+0
+delete
+user3
+logout
+quit

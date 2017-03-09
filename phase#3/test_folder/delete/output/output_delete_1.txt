@@ -1,0 +1,13 @@
+Welcome to ticket kiosk.To quit at anytime please enter 'quit'. Please enter 'login' to begin: 
+Enter Username: ACCOUNT INFORMATION: admin/ AA/ 100
+Login Accepted, welcome user!
+Please enter a transaction you wish to make
+Please enter a user you wish to delete: 
+User not found
+Please enter a transaction you wish to make
+00 admin           AA 100.000000
+you have logged out
+
+Welcome to ticket kiosk.To quit at anytime please enter 'quit'. Please enter 'login' to begin: 
+finished
+exiting the ticket system

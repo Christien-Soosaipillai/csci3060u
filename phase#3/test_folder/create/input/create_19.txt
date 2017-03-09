@@ -1,0 +1,8 @@
+login
+user_admin
+create
+user_css
+sell-standard
+-1.00
+logout
+quit
