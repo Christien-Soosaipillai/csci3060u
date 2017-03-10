@@ -1,0 +1,18 @@
+﻿  ticketSession.cpp
+c:\users\100557844\desktop\software quality assurance\project\phase#2\ticketmachinefe\ticketmachinefe\ticketsession.cpp(108): warning C4018: '<': signed/unsigned mismatch
+c:\users\100557844\desktop\software quality assurance\project\phase#2\ticketmachinefe\ticketmachinefe\ticketsession.cpp(109): warning C4018: '<': signed/unsigned mismatch
+c:\users\100557844\desktop\software quality assurance\project\phase#2\ticketmachinefe\ticketmachinefe\ticketsession.cpp(125): warning C4018: '<': signed/unsigned mismatch
+c:\users\100557844\desktop\software quality assurance\project\phase#2\ticketmachinefe\ticketmachinefe\ticketsession.cpp(134): warning C4018: '<': signed/unsigned mismatch
+c:\users\100557844\desktop\software quality assurance\project\phase#2\ticketmachinefe\ticketmachinefe\ticketsession.cpp(101): warning C4101: 'total': unreferenced local variable
+c:\users\100557844\desktop\software quality assurance\project\phase#2\ticketmachinefe\ticketmachinefe\ticketsession.cpp(217): warning C4018: '<': signed/unsigned mismatch
+c:\users\100557844\desktop\software quality assurance\project\phase#2\ticketmachinefe\ticketmachinefe\ticketsession.cpp(245): warning C4101: 'TotalCredit': unreferenced local variable
+c:\users\100557844\desktop\software quality assurance\project\phase#2\ticketmachinefe\ticketmachinefe\ticketsession.cpp(309): warning C4018: '<': signed/unsigned mismatch
+c:\users\100557844\desktop\software quality assurance\project\phase#2\ticketmachinefe\ticketmachinefe\ticketsession.cpp(318): warning C4018: '<': signed/unsigned mismatch
+c:\users\100557844\desktop\software quality assurance\project\phase#2\ticketmachinefe\ticketmachinefe\ticketsession.cpp(301): warning C4101: 'TotalCredit': unreferenced local variable
+c:\users\100557844\desktop\software quality assurance\project\phase#2\ticketmachinefe\ticketmachinefe\ticketsession.cpp(377): warning C4018: '<': signed/unsigned mismatch
+c:\users\100557844\desktop\software quality assurance\project\phase#2\ticketmachinefe\ticketmachinefe\ticketsession.cpp(397): warning C4018: '<': signed/unsigned mismatch
+c:\users\100557844\desktop\software quality assurance\project\phase#2\ticketmachinefe\ticketmachinefe\ticketsession.cpp(466): warning C4018: '<': signed/unsigned mismatch
+c:\users\100557844\desktop\software quality assurance\project\phase#2\ticketmachinefe\ticketmachinefe\ticketsession.cpp(470): warning C4018: '<': signed/unsigned mismatch
+c:\users\100557844\desktop\software quality assurance\project\phase#2\ticketmachinefe\ticketmachinefe\ticketsession.cpp(492): warning C4018: '<': signed/unsigned mismatch
+  TicketMachineFE.vcxproj -> C:\Users\100557844\Desktop\Software Quality Assurance\Project\phase#2\TicketMachineFE\Debug\TicketMachineFE.exe
+  TicketMachineFE.vcxproj -> C:\Users\100557844\Desktop\Software Quality Assurance\Project\phase#2\TicketMachineFE\Debug\TicketMachineFE.pdb (Partial PDB)

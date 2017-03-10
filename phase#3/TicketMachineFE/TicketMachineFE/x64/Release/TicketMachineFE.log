@@ -1,0 +1,11 @@
+﻿  ticketSession.cpp
+ticketSession.cpp(84): warning C4101: 'total': unreferenced local variable
+ticketSession.cpp(200): warning C4101: 'TotalCredit': unreferenced local variable
+ticketSession.cpp(241): warning C4101: 'TotalCredit': unreferenced local variable
+  Generating code
+  7 of 516 functions ( 1.4%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    14 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  TicketMachineFE.vcxproj -> C:\Users\100400606\Desktop\TicketMachineFE\x64\Release\TicketMachineFE.exe
+  TicketMachineFE.vcxproj -> C:\Users\100400606\Desktop\TicketMachineFE\x64\Release\TicketMachineFE.pdb (Full PDB)

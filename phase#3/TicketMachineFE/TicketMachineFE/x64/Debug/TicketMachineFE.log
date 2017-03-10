@@ -1,0 +1,6 @@
+﻿  ticketSession.cpp
+c:\users\100400606\desktop\ticketmachinefe\ticketmachinefe\ticketsession.cpp(84): warning C4101: 'total': unreferenced local variable
+c:\users\100400606\desktop\ticketmachinefe\ticketmachinefe\ticketsession.cpp(193): warning C4101: 'TotalCredit': unreferenced local variable
+c:\users\100400606\desktop\ticketmachinefe\ticketmachinefe\ticketsession.cpp(235): warning C4101: 'TotalCredit': unreferenced local variable
+  TicketMachineFE.vcxproj -> C:\Users\100400606\Desktop\TicketMachineFE\x64\Debug\TicketMachineFE.exe
+  TicketMachineFE.vcxproj -> C:\Users\100400606\Desktop\TicketMachineFE\x64\Debug\TicketMachineFE.pdb (Partial PDB)
