@@ -1,6 +1,6 @@
 login
 user_sell
-addcredit 
-0
+addcredit
+0.01
 logout
 quit

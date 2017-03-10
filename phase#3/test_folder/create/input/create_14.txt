@@ -2,7 +2,7 @@ login
 user_admin
 create
 user_ta
-admin
+AA
 0
 logout
 quit

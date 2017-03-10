@@ -1,6 +1,9 @@
 login
 admin
 buy
-Total Monster JampakBrawl!
+Celine Dion Show
+Irfaan
+3
+yes
 logout
 quit

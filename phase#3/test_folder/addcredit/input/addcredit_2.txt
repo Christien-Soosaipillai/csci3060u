@@ -1,7 +1,7 @@
 login
 user_admin
-addcredit 
-90.00
+addcredit
 user_buy
+90.00
 logout
 quit

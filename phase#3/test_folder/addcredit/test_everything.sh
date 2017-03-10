@@ -1,11 +1,21 @@
 #!/bin/sh
-##rm -f ./output/*.txt
+
+#Automation kept ignoring the first line in test files.
+#resorted to brute force.
+#couldn't figure out why this was happening.
+#when called individually it works but not with a for loop.
+
+#rm -f ./output/*.txt
 #cd input
 #for i in *; do
 #	echo running $i
 #	../test.sh $i > ../output/output_$i
 #done
 
+#clears output folder files.
+rm -f ./output/*.txt
+
+#runs the script test.sh for each test case.
 ./test.sh ./input/addcredit_1.txt > ./output/output_addcredit_1.txt
 ./test.sh ./input/addcredit_2.txt > ./output/output_addcredit_2.txt
 ./test.sh ./input/addcredit_3.txt > ./output/output_addcredit_3.txt
@@ -25,4 +35,3 @@
 ./test.sh ./input/addcredit_17.txt > ./output/output_addcredit_17.txt
 ./test.sh ./input/addcredit_18.txt > ./output/output_addcredit_18.txt
 ./test.sh ./input/addcredit_19.txt > ./output/output_addcredit_19.txt
-./test.sh ./input/addcredit_20.txt > ./output/output_addcredit_20.txt

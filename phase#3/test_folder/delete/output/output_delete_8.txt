@@ -1,18 +1,16 @@
-Welcome to ticket kiosk.To quit at anytime please enter 'quit'. Please enter 'login' to begin: 
-Enter Username: Welcome to ticket kiosk.To quit at anytime please enter 'quit'. Please enter 'login' to begin: 
-Invalid Request. Need to be logged in.
-Welcome to ticket kiosk.To quit at anytime please enter 'quit'. Please enter 'login' to begin: 
-Invalid Request. Need to be logged in.
-Welcome to ticket kiosk.To quit at anytime please enter 'quit'. Please enter 'login' to begin: 
-Invalid Request. Need to be logged in.
-Welcome to ticket kiosk.To quit at anytime please enter 'quit'. Please enter 'login' to begin: 
-Invalid Request. Need to be logged in.
-Welcome to ticket kiosk.To quit at anytime please enter 'quit'. Please enter 'login' to begin: 
-Invalid Request. Need to be logged in.
-Welcome to ticket kiosk.To quit at anytime please enter 'quit'. Please enter 'login' to begin: 
-Invalid Request. Need to be logged in.
-Welcome to ticket kiosk.To quit at anytime please enter 'quit'. Please enter 'login' to begin: 
-Invalid Request. Need to be logged in.
-Welcome to ticket kiosk.To quit at anytime please enter 'quit'. Please enter 'login' to begin: 
-finished
-exiting the ticket system
+Welcome to ticket kiosk. To quit at anytime please enter 'quit'.
+Please enter 'login' to begin:
+Enter username:
+Welcome user_admin.
+Please enter a function:
+Please create a username: 
+Please state the account type: 
+Please enter a beginning credit amount: 
+Success, account is created
+Please enter a function:
+Please enter a user you wish to delete: 
+User not found
+Please enter a function:
+Logout successful.
+Welcome to ticket kiosk. To quit at anytime please enter 'quit'.
+Please enter 'login' to begin:

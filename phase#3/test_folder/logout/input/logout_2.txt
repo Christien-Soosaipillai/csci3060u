@@ -1,8 +1,4 @@
 login
 admin
-create
-user1
-BS
-0
 logout
 quit

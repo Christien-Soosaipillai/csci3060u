@@ -5,7 +5,7 @@
 #	echo running $i
 #	../test.sh $i > ../output/output_$i
 #done
-
+rm -f ./output/*.txt
 ./test.sh ./input/refund_1.txt > ./output/output_refund_1.txt
 ./test.sh ./input/refund_2.txt > ./output/output_refund_2.txt
 ./test.sh ./input/refund_3.txt > ./output/output_refund_3.txt

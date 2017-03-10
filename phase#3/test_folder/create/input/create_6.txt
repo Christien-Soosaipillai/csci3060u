@@ -1,6 +1,4 @@
 login
 user_admin
-create
-
 logout
 quit

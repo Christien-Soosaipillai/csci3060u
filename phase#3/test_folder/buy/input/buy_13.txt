@@ -1,7 +1,10 @@
 login
 admin
 buy
-sample event title
-0
+Celine Dion Show
+Irfaan
+1
+yes
 logout
 quit
+

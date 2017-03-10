@@ -2,7 +2,7 @@ login
 user_admin
 create
 Z
-buy-standard
+BS
 0
 logout
 quit

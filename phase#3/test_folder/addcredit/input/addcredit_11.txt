@@ -1,6 +1,6 @@
 login
-user_buy
-addcredit 
+user_sell
+addcredit
 90.00
 logout
 quit

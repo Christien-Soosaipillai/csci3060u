@@ -1,7 +1,6 @@
 login
 user_admin
-addcredit 
-90.00
-User_test_12345
+addcredit
+user_unknown
 logout
 quit

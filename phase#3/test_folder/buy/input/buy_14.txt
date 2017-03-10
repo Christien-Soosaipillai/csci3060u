@@ -1,9 +1,10 @@
 login
 admin
+sell
+Concert
+10
+15
 buy
-sample event title
-1
-selluser
-yes
+Concert
 logout
 quit

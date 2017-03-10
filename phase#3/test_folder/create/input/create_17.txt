@@ -2,7 +2,7 @@ login
 user_admin
 create
 user_tss
-sell-standard
+SS
 0
 logout
 quit

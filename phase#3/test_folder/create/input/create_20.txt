@@ -2,7 +2,7 @@ login
 user_admin
 create
 user_cmin
-sell-standard
+SS
 0.00
 logout
 quit

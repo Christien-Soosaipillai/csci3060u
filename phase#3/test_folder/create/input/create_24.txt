@@ -2,7 +2,7 @@ login
 user_admin
 create
 user_cscs
-sell-standard
+SS
 999999.67
 logout
 quit

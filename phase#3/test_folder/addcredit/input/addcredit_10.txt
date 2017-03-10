@@ -1,5 +1,5 @@
 login
-user_standard
+user_buy
 addcredit 
 90.00
 logout

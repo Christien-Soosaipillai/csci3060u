@@ -1,11 +1,11 @@
-Welcome to ticket kiosk.
-Please enter login to begin:
+Welcome to ticket kiosk. To quit at anytime please enter 'quit'.
+Please enter 'login' to begin:
 Enter username:
-Welcome user1.
+Welcome user_sell.
 Please enter a function:
-How much credit do you wish to add?
-Credit amount: $90.00
-Credit will be added!
+How much credit do you wish to add to this account:
+Credit added! Your new credit will be: 10
 Please enter a function:
-Logout successful.          
-
+Logout successful.
+Welcome to ticket kiosk. To quit at anytime please enter 'quit'.
+Please enter 'login' to begin:

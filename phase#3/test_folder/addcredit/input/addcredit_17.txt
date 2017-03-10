@@ -1,6 +1,6 @@
 login
-user_sell
-addcredit 
+user_max
+addcredit
 1000.01
 logout
 quit

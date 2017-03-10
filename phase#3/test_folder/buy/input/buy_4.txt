@@ -1,4 +1,5 @@
 login
 selluser
+buy
 logout
 quit

@@ -1,22 +1,16 @@
-Welcome to ticket kiosk.To quit at anytime please enter 'quit'. Please enter 'login' to begin: 
-Enter Username: ACCOUNT INFORMATION: fulluser/ FS/ 100
-Login Accepted, welcome user!
-Please enter a transaction you wish to make
-available_tickets_file.txt
-Celine Dion Show irfaan 3 3.99 
-Please enter the event title for the tickets you wish to purchase: 
-
-Event Name not found
-Please enter a transaction you wish to make
-sorry that is the wrong command
-Please enter a transaction you wish to make
-sorry that is the wrong command
-Please enter a transaction you wish to make
-sorry that is the wrong command
-Please enter a transaction you wish to make
-00 fulluser        FS 100.000000
-you have logged out
-
-Welcome to ticket kiosk.To quit at anytime please enter 'quit'. Please enter 'login' to begin: 
-finished
-exiting the ticket system
+Welcome to ticket kiosk. To quit at anytime please enter 'quit'.
+Please enter 'login' to begin:
+Enter username:
+Welcome fulluser.
+Please enter a function:
+Please enter the event title for the tickets you wish to purchase:
+What is the username of the seller:
+How many tickets do you wish to purchase:
+The cost of each ticket is: 3.99
+The total cost is: 7.98
+Please confirm your purchase(yes/no{exact}):
+Ticket Purchased.
+Please enter a function:
+Logout successful.
+Welcome to ticket kiosk. To quit at anytime please enter 'quit'.
+Please enter 'login' to begin:

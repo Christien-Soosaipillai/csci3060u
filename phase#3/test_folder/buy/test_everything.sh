@@ -5,7 +5,7 @@
 #	echo running $i
 #	../test.sh $i > ../output/output_$i
 #done
-
+rm -f ./output/*.txt
 ./test.sh ./input/buy_1.txt > ./output/output_buy_1.txt
 ./test.sh ./input/buy_2.txt > ./output/output_buy_2.txt
 ./test.sh ./input/buy_3.txt > ./output/output_buy_3.txt
@@ -23,8 +23,3 @@
 ./test.sh ./input/buy_15.txt > ./output/output_buy_15.txt
 ./test.sh ./input/buy_16.txt > ./output/output_buy_16.txt
 ./test.sh ./input/buy_17.txt > ./output/output_buy_17.txt
-./test.sh ./input/buy_18.txt > ./output/output_buy_18.txt
-./test.sh ./input/buy_19.txt > ./output/output_buy_19.txt
-./test.sh ./input/buy_20.txt > ./output/output_buy_20.txt
-./test.sh ./input/buy_21.txt > ./output/output_buy_21.txt
-./test.sh ./input/buy_22.txt > ./output/output_buy_22.txt

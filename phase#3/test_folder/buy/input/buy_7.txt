@@ -1,9 +1,10 @@
 login
 admin
 buy
-T
+Celine Dion Show
+Irfaan
 2
-selluser
 yes
 logout
 quit
+

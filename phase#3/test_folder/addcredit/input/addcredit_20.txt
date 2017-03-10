@@ -1,6 +1,0 @@
-login
-user_sell
-addcredit 
-1000.00
-logout
-quit

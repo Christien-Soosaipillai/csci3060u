@@ -5,7 +5,7 @@
 #	echo running $i
 #	../test.sh $i > ../output/output_$i
 #done
-
+rm -f ./output/*.txt
 ./test.sh ./input/create_1.txt > ./output/output_create_1.txt
 ./test.sh ./input/create_2.txt > ./output/output_create_2.txt
 ./test.sh ./input/create_3.txt > ./output/output_create_3.txt

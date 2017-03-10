@@ -1,9 +1,23 @@
-Welcome to ticket kiosk.
-Please enter login to begin:
-Invalid request. Need to be logged in.
-Invalid request. Need to be logged in.
-Invalid request. Need to be logged in.
-Invalid request. Need to be logged in.
-Invalid request. Need to be logged in.
-Invalid request. Need to be logged in.
-Invalid request. Need to be logged in.
+Welcome to ticket kiosk. To quit at anytime please enter 'quit'.
+Please enter 'login' to begin:
+Invalid Request. Need to be logged in.
+Welcome to ticket kiosk. To quit at anytime please enter 'quit'.
+Please enter 'login' to begin:
+Invalid Request. Need to be logged in.
+Welcome to ticket kiosk. To quit at anytime please enter 'quit'.
+Please enter 'login' to begin:
+Invalid Request. Need to be logged in.
+Welcome to ticket kiosk. To quit at anytime please enter 'quit'.
+Please enter 'login' to begin:
+Invalid Request. Need to be logged in.
+Welcome to ticket kiosk. To quit at anytime please enter 'quit'.
+Please enter 'login' to begin:
+Invalid Request. Need to be logged in.
+Welcome to ticket kiosk. To quit at anytime please enter 'quit'.
+Please enter 'login' to begin:
+Invalid Request. Need to be logged in.
+Welcome to ticket kiosk. To quit at anytime please enter 'quit'.
+Please enter 'login' to begin:
+Invalid Request. Need to be logged in.
+Welcome to ticket kiosk. To quit at anytime please enter 'quit'.
+Please enter 'login' to begin:

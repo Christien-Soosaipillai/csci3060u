@@ -2,7 +2,7 @@ login
 user_admin
 create
 user2
-buy-standard
+BS
 0
 logout
 quit

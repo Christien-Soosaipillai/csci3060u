@@ -1,5 +1,5 @@
 login
-user_full
+fulluser
 delete
 logout
 quit

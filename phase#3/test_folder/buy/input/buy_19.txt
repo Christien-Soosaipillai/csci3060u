@@ -1,6 +1,0 @@
-login
-admin
-buy
-sample event title2
-logout
-quit

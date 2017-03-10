@@ -1,9 +1,12 @@
-Welcome to ticket kiosk.
-Please enter login to begin:
+Welcome to ticket kiosk. To quit at anytime please enter 'quit'.
+Please enter 'login' to begin:
 Enter username:
 Welcome user1.
 Please enter a function:
-Enter username:
-User already logged in.
+Invalid Request.
+Please enter a function:
+Invalid Request.
 Please enter a function:
 Logout successful.
+Welcome to ticket kiosk. To quit at anytime please enter 'quit'.
+Please enter 'login' to begin:

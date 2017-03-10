@@ -1,9 +1,9 @@
 login
 admin
 buy
-sample event title
-2
-selluser
+Celine Dion Show
+Irfaan
+4
 yes
 logout
 quit

@@ -1,10 +1,16 @@
-Welcome to ticket kiosk.
-Please enter login to begin:
+Welcome to ticket kiosk. To quit at anytime please enter 'quit'.
+Please enter 'login' to begin:
 Enter username:
 Welcome admin.
 Please enter a function:
-Enter Event Title:
-Enter number of tickets (max 4):
-Please enter the seller’s username:
-2 ticket(s) @ $10.00 each for the event: “sample event title“
-Total: $20.00
+Please enter the event title for the tickets you wish to purchase:
+What is the username of the seller:
+How many tickets do you wish to purchase:
+The cost of each ticket is: 3.99
+The total cost is: 7.98
+Please confirm your purchase(yes/no{exact}):
+Ticket Purchased.
+Please enter a function:
+Logout successful.
+Welcome to ticket kiosk. To quit at anytime please enter 'quit'.
+Please enter 'login' to begin:

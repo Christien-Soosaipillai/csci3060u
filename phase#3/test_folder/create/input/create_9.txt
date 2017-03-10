@@ -1,6 +1,8 @@
 login
 user_admin
 create
-user_123456789s
+user_1234567890
+BS
+0
 logout
 quit

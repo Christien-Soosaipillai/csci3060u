@@ -2,7 +2,7 @@ login
 user_admin
 create
 user_cmax
-sell-standard
+SS
 999999.99
 logout
 quit

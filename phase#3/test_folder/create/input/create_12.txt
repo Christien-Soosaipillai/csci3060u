@@ -2,5 +2,7 @@ login
 user_admin
 create
 user_admin
+AA
+0
 logout
 quit

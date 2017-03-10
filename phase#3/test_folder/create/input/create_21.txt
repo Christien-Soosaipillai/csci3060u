@@ -2,7 +2,7 @@ login
 user_admin
 create
 user_cmid
-sell-standard
+SS
 499999.99
 logout
 quit
